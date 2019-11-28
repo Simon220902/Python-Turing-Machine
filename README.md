@@ -15,3 +15,5 @@ If you just have an idea for a turing machine this is probably the one to try.
 ## turingGUI.py
 A program providing a GUI for the step through execution of a turing machine.
 Try it out in the turingInterface.py.
+Type help to get a list of the commands.
+Do mind that you need to create both a tape and a program (and give them both some data) for it to be able to execute.
